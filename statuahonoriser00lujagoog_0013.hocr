@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./statuahonoriser00lujagoog_0013.png"; bbox 0 0 3465 4737; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 50 2426 3018 2868">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 50 2426 3018 2868">
+     <span class='ocr_line' id='line_1_1' title="bbox 50 2426 3018 2868; baseline 0.016 -106"><span class='ocrx_word' id='word_1_1' title='bbox 50 2426 409 2868; x_wconf 69' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_2' title='bbox 284 2569 1770 2788; x_wconf 59' lang='lat' dir='ltr'><strong><em>mmmm}</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1783 2601 3018 2856; x_wconf 57' lang='lat' dir='ltr'><em>QVARTJ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 500 2873 2569 3078">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 218 2859 2569 3078">
+     <span class='ocr_line' id='line_1_2' title="bbox 500 2873 2569 3078; baseline 0.02 -52.482"><span class='ocrx_word' id='word_1_4' title='bbox 500 2873 1332 3052; x_wconf 71' lang='lat' dir='ltr'>Confihano</span> <span class='ocrx_word' id='word_1_5' title='bbox 1378 2912 1854 3051; x_wconf 68' lang='lat' dir='ltr'><strong>{numo</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1899 2932 2067 3057; x_wconf 74' lang='lat'>&amp;2</span> <span class='ocrx_word' id='word_1_7' title='bbox 2081 2928 2569 3078; x_wconf 51' lang='lat' dir='ltr'>‘Statim</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 486 3845 3140 4356">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 486 3841 3140 4356">
+     <span class='ocr_line' id='line_1_3' title="bbox 486 3845 2952 4124; baseline 0.01 -141.727"><span class='ocrx_word' id='word_1_8' title='bbox 486 3845 1601 4124; x_wconf 42' lang='lat' dir='ltr'>{leecenan</span> <span class='ocrx_word' id='word_1_9' title='bbox 1520 3864 2488 4027; x_wconf 79' lang='lat' dir='ltr'>Granofisfimo</span> <span class='ocrx_word' id='word_1_10' title='bbox 2947 4058 2952 4062; x_wconf 13' lang='lat'>⁸</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1316 4153 3140 4356; baseline 0.012 -66.926"><span class='ocrx_word' id='word_1_11' title='bbox 1316 4161 1508 4290; x_wconf 84' lang='grc' dir='ltr'>Λ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1604 4197 1776 4334; x_wconf 95' lang='grc'><strong>3</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2185 4253 2207 4330; x_wconf 61' lang='lat'>7</span> <span class='ocrx_word' id='word_1_14' title='bbox 2415 4216 2428 4234; x_wconf 41' lang='lat'>⁸</span> <span class='ocrx_word' id='word_1_15' title='bbox 2725 4153 3140 4356; x_wconf 41' lang='lat' dir='ltr'>*mn-’j‘</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
